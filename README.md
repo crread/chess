@@ -1,4 +1,4 @@
-This chess game is my first personal push on github and my first project on ReactJs. The goal of this project is to learn more about Javascript ES6 and basic features on ReactJs as Compenents , props and lifecycle of Components.
+This chess game is my first personal push on github and my first project on ReactJs. The goal of this project is to learn more about Javascript ES6 and basic features on ReactJs as Compenents , props and lifecycle and Components.
 
 The project is not over yet, I have to work on some features and bugs listed below :
 

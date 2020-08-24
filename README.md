@@ -8,4 +8,4 @@ The project is not over yet, I have to work on some features and bugs listed bel
 - Fix the restart game option.
 - Add a visual on pieces lost during the game.
 
-Later I will try to add a websocket with nodeJs. The goal of that feature is to learn to use Javascript ES6 deeper, learn the basics of nodeJs and websocket.
+Later I will try to add a websocket feature with nodeJs. The goal of that feature is to learn to use Javascript ES6 deeper, learn the basics of nodeJs and websocket.
